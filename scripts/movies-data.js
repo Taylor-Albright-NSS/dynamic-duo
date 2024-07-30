@@ -26,3 +26,4 @@ export const movies = [
         description: "Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself."
     }
  ];
+ console.log(movies)
